@@ -28,8 +28,8 @@
 }
 .lead {
     font-size:  20px;
- 
-    text-shadow: 2px 2px 4px white;
+    
+    text-shadow: 2px 2px 4px black;
 }
 .btn {
     display: inline-block;
